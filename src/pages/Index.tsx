@@ -618,11 +618,9 @@ export default function Index() {
                   <Icon name="Send" size={20} className="mr-2" />
                   Отправить заявку
                 </Button>
-              </form>
-              
-              <p className="text-sm text-gray-500 text-center mt-4">
-                Нажимая кнопку, вы соглашаетесь с обработкой персональных данных
-              </p>
+                <p className="text-sm text-gray-500 text-center">
+                  Нажимая кnопку, вы соглашаетесь с обработкой персональных данных
+                </p>
               </form>
             </Card>
           </div>
